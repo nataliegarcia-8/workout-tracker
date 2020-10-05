@@ -42,3 +42,10 @@ const API = {
     return json;
   },
 };
+
+
+// fetch("/demo/hero?alias=Batman&known=true", {
+//   method: "POST",
+//   body: JSON.stringify({ name: "Bruce Wayne" }),
+//   headers: { "Content-Type": "application/json" }
+// })
